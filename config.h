@@ -1,2 +1,0 @@
-#define ENCODER_A_PINS {PAD2_A0_D0}
-#define ENCODER_B_PINS {PA4_A1_D1}
