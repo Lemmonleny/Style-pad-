@@ -26,3 +26,9 @@ case together
 
 
 
+NOTES
+
+Well it wasint easy, but I got a whole lot better at CAD, I learned how to make PCB, and I learned QMK.
+
+
+
