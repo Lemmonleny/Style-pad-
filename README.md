@@ -12,3 +12,17 @@ Schematic
 
 <img width="1207" height="853" alt="Screenshot 2026-08-26 182058" src="https://github.com/user-attachments/assets/c8d94487-8aff-46df-9820-138d119a2420" />
 
+
+case
+
+
+<img width="1060" height="811" alt="image" src="https://github.com/user-attachments/assets/6d02e657-cd43-4f14-aa1f-a496bf3f678e" />
+
+
+
+case together
+
+<img width="1322" height="793" alt="Screenshot 2026-08-26 193208" src="https://github.com/user-attachments/assets/87267c89-2447-47b0-aff5-94b0d62a3ce1" />
+
+
+
