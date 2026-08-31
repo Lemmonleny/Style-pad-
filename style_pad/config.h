@@ -1,0 +1,4 @@
+#define ENCODER_A_PINS {GP26}
+#define ENCODER_B_PINS {GP27}
+#define MATRIX_ROWS 2
+#define MATRIX_COLS 4
