@@ -1,0 +1,4 @@
+
+#define MATRIX_ROWS 2
+#define MATRIX_COLS 4
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
